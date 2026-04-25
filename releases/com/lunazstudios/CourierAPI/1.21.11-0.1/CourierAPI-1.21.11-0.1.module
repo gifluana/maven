@@ -27,11 +27,11 @@
         {
           "name": "CourierAPI-1.21.11-0.1.jar",
           "url": "CourierAPI-1.21.11-0.1.jar",
-          "size": 30369,
-          "sha512": "7dbd647a2f9fc10098c84a9631b6d3d81a49ea7520cc205e40f0723cffcadcb2e5eaee6dcdaf38ab84531d1952b96dcf3a9288921747c788e92b63c613341b65",
-          "sha256": "b74c0f870994827ad05d400806a7cf5ca2f452f68d7b34b3396866df6c6fd717",
-          "sha1": "b4093d45506a66de4f6e090b299bb4379dcf60f0",
-          "md5": "f1515d31f01ef7362b03a368fd9f9379"
+          "size": 30881,
+          "sha512": "4edae13169a425d9a36be3d3b05500e070be5e38104be67fa83c0edd30ba9827cb3edc547cf023644e6351e45d25bea079f40712dda92321ca8c74b28eaa3b96",
+          "sha256": "bc26b1c8d7bc38f7a625aff06ad2a0e79566c069cdf85e4c27de01991c959e15",
+          "sha1": "39bb842ec823c485b60726d40defdbddae7dd656",
+          "md5": "b22448046802f7fcea09111291281856"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "CourierAPI-1.21.11-0.1.jar",
           "url": "CourierAPI-1.21.11-0.1.jar",
-          "size": 30369,
-          "sha512": "7dbd647a2f9fc10098c84a9631b6d3d81a49ea7520cc205e40f0723cffcadcb2e5eaee6dcdaf38ab84531d1952b96dcf3a9288921747c788e92b63c613341b65",
-          "sha256": "b74c0f870994827ad05d400806a7cf5ca2f452f68d7b34b3396866df6c6fd717",
-          "sha1": "b4093d45506a66de4f6e090b299bb4379dcf60f0",
-          "md5": "f1515d31f01ef7362b03a368fd9f9379"
+          "size": 30881,
+          "sha512": "4edae13169a425d9a36be3d3b05500e070be5e38104be67fa83c0edd30ba9827cb3edc547cf023644e6351e45d25bea079f40712dda92321ca8c74b28eaa3b96",
+          "sha256": "bc26b1c8d7bc38f7a625aff06ad2a0e79566c069cdf85e4c27de01991c959e15",
+          "sha1": "39bb842ec823c485b60726d40defdbddae7dd656",
+          "md5": "b22448046802f7fcea09111291281856"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "CourierAPI-1.21.11-0.1-sources.jar",
           "url": "CourierAPI-1.21.11-0.1-sources.jar",
-          "size": 18090,
-          "sha512": "2c15e69c577e9cb26de9b1d77103dfd7035c6d5133523c55de8a0a44cf034ada245d7505c6fd67a1779b8ef32d6d1cbfd93ab29615d8f56c8bbd6d8922d9df87",
-          "sha256": "8ff7d832e4b585978b81dc26c94c81ffb524119e48a2f83d8c9cf999ced15dc3",
-          "sha1": "52eecd2c8e703e5e7d6442721a5ab7fe812e707f",
-          "md5": "7dd19c1b896436b8934909a13ff5fe39"
+          "size": 18843,
+          "sha512": "ecff3b3835052cc8338e844f39f2e6a2b4fdf8a43bf3a1a6f0efcde658c023916e0b02925b8f3a022247f292443cd95b7ba2dfc3f02d633ae6878ec10e218433",
+          "sha256": "bb9d18e9005bbf19a679374dac60f1636490c3ed6b5f5adeba8561aee577d86a",
+          "sha1": "76160665fa321c473fe5f2271a4e3f2a8ffb3ced",
+          "md5": "34de7c0922522daf0a773788c8b03ec0"
         }
       ]
     }
