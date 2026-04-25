@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lunazstudios",
+    "module": "CourierAPI",
+    "version": "26.1.2-0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "CourierAPI-26.1.2-0.1.jar",
+          "url": "CourierAPI-26.1.2-0.1.jar",
+          "size": 34129,
+          "sha512": "affe353b1dfdd5a435fc5ee936238cccdc6dbf1eb58332b4412b60e7c013bbf596338bcf46a0ee80811c87bfdff4c153feadbb9901e73c6e06dfe2a652d438eb",
+          "sha256": "e3d1dccc5f3422e374b585cf5cd21beaa8a003cb7b4a1841e472e426bff641f8",
+          "sha1": "bc10bfae226f7e14095b22a2f8f63e2f1e9452a1",
+          "md5": "cb415cd7ee0237431774d6c417cc3b74"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.2"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.146.1+26.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "CourierAPI-26.1.2-0.1.jar",
+          "url": "CourierAPI-26.1.2-0.1.jar",
+          "size": 34129,
+          "sha512": "affe353b1dfdd5a435fc5ee936238cccdc6dbf1eb58332b4412b60e7c013bbf596338bcf46a0ee80811c87bfdff4c153feadbb9901e73c6e06dfe2a652d438eb",
+          "sha256": "e3d1dccc5f3422e374b585cf5cd21beaa8a003cb7b4a1841e472e426bff641f8",
+          "sha1": "bc10bfae226f7e14095b22a2f8f63e2f1e9452a1",
+          "md5": "cb415cd7ee0237431774d6c417cc3b74"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "CourierAPI-26.1.2-0.1-sources.jar",
+          "url": "CourierAPI-26.1.2-0.1-sources.jar",
+          "size": 21060,
+          "sha512": "011bcb51ce68796cd15f9921089d7fb8e7ece8724b993ce8bfb335cef0945b9e341b170c9e4e8b262b7523b55f355fbae515b6e7919b221f9336f27da635ddab",
+          "sha256": "b99d1e207b18d09b357ac508a6d2aec5f4ccf8dab67eba57562fe2b0963e9950",
+          "sha1": "32ba0ec43ca0a7cdd690939194efaca44442bfa3",
+          "md5": "30f94d883177261b555c72bc90006b0a"
+        }
+      ]
+    }
+  ]
+}
