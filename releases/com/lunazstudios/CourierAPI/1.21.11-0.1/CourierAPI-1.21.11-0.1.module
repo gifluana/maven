@@ -3,7 +3,7 @@
   "component": {
     "group": "com.lunazstudios",
     "module": "CourierAPI",
-    "version": "0.1",
+    "version": "1.21.11-0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "CourierAPI-0.1.jar",
-          "url": "CourierAPI-0.1.jar",
-          "size": 30367,
-          "sha512": "d74c02bc5a8fa40c0759f010ea568249f06faa2f83d0edb9887fec67a20002b6fe765f194b66e04098785505b0a4b531562eaa3a34d58b6b88ddafb35d06ca58",
-          "sha256": "f696c443987d3fabc981b7abcdd5c4fda77b3480dec4207c49fd8a99eebe0cdd",
-          "sha1": "1ec53789eb96b8e60943d8475e021d8ca1835836",
-          "md5": "44c59144b3cdf942d9148c5db3673af0"
+          "name": "CourierAPI-1.21.11-0.1.jar",
+          "url": "CourierAPI-1.21.11-0.1.jar",
+          "size": 30369,
+          "sha512": "7dbd647a2f9fc10098c84a9631b6d3d81a49ea7520cc205e40f0723cffcadcb2e5eaee6dcdaf38ab84531d1952b96dcf3a9288921747c788e92b63c613341b65",
+          "sha256": "b74c0f870994827ad05d400806a7cf5ca2f452f68d7b34b3396866df6c6fd717",
+          "sha1": "b4093d45506a66de4f6e090b299bb4379dcf60f0",
+          "md5": "f1515d31f01ef7362b03a368fd9f9379"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "CourierAPI-0.1.jar",
-          "url": "CourierAPI-0.1.jar",
-          "size": 30367,
-          "sha512": "d74c02bc5a8fa40c0759f010ea568249f06faa2f83d0edb9887fec67a20002b6fe765f194b66e04098785505b0a4b531562eaa3a34d58b6b88ddafb35d06ca58",
-          "sha256": "f696c443987d3fabc981b7abcdd5c4fda77b3480dec4207c49fd8a99eebe0cdd",
-          "sha1": "1ec53789eb96b8e60943d8475e021d8ca1835836",
-          "md5": "44c59144b3cdf942d9148c5db3673af0"
+          "name": "CourierAPI-1.21.11-0.1.jar",
+          "url": "CourierAPI-1.21.11-0.1.jar",
+          "size": 30369,
+          "sha512": "7dbd647a2f9fc10098c84a9631b6d3d81a49ea7520cc205e40f0723cffcadcb2e5eaee6dcdaf38ab84531d1952b96dcf3a9288921747c788e92b63c613341b65",
+          "sha256": "b74c0f870994827ad05d400806a7cf5ca2f452f68d7b34b3396866df6c6fd717",
+          "sha1": "b4093d45506a66de4f6e090b299bb4379dcf60f0",
+          "md5": "f1515d31f01ef7362b03a368fd9f9379"
         }
       ]
     },
@@ -82,8 +82,8 @@
       },
       "files": [
         {
-          "name": "CourierAPI-0.1-sources.jar",
-          "url": "CourierAPI-0.1-sources.jar",
+          "name": "CourierAPI-1.21.11-0.1-sources.jar",
+          "url": "CourierAPI-1.21.11-0.1-sources.jar",
           "size": 18090,
           "sha512": "2c15e69c577e9cb26de9b1d77103dfd7035c6d5133523c55de8a0a44cf034ada245d7505c6fd67a1779b8ef32d6d1cbfd93ab29615d8f56c8bbd6d8922d9df87",
           "sha256": "8ff7d832e4b585978b81dc26c94c81ffb524119e48a2f83d8c9cf999ced15dc3",
